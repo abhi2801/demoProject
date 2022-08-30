@@ -44,4 +44,14 @@
             android:id="@+id/action_logOutFragment_to_loginFragment"
             app:destination="@id/loginFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/newsDetailsFragment"
+        android:name="com.mycompany.demoprojectas.view.NewsDetailsFragment"
+        android:label="fragment_news_details"
+        tools:layout="@layout/fragment_news_details" />
+    <fragment
+        android:id="@+id/savedNewsFragment"
+        android:name="com.mycompany.demoprojectas.view.SavedNewsFragment"
+        android:label="fragment_saved_news"
+        tools:layout="@layout/fragment_saved_news" />
 </navigation>
