@@ -18,6 +18,10 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+    buildFeatures{
+        viewBinding true
+        dataBinding true
+    }
 
     buildTypes {
         release {
@@ -69,6 +73,6 @@ dependencies {
     implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
 
     implementation 'com.intuit.sdp:sdp-android:1.1.0'
-    implementation 'com.intuit.ssp:sdp-android:1.1.0'
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
 
     }

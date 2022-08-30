@@ -3,13 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/drawable/custom_button.xml" value="0.1515" />
+        <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/drawable/custom_edittext.xml" value="0.1515" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_log_out.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_login.xml" value="0.25" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_news_details.xml" value="0.17395833333333333" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_recover_password.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_saved_news.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_search_news.xml" value="0.17395833333333333" />
         <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/layout/fragment_signup.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ab/AndroidStudioProjects/DemoProjectAS/app/src/main/res/menu/bottom_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
